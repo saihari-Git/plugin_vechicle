@@ -1,1 +1,8 @@
-code example
+#include<stdio.h>
+int main()
+{
+printf ("hello world");
+printf("this file belongs to abhi");
+printf("my name is hari");
+}
+q<CR> q<CR> 
